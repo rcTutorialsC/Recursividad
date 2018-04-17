@@ -68,14 +68,10 @@
 		2CE065752086AC63004C643A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		2CE0657D2086AC78004C643A /* Ejercicio1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Ejercicio1.c; sourceTree = "<group>"; };
 		2CE065832086AE2D004C643A /* Ejercicio1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ejercicio1; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CE065852086AE2D004C643A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		2CE0658B2086AE8B004C643A /* Ejercicio2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Ejercicio2.c; sourceTree = "<group>"; };
 		2CE065912086AE96004C643A /* Ejercicio2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ejercicio2; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CE065932086AE96004C643A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		2CE0659D2086AEFD004C643A /* Ejercicio3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ejercicio3; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CE0659F2086AEFD004C643A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		2CE065A82086AF1E004C643A /* Ejercicio4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Ejercicio4; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CE065AA2086AF1E004C643A /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		2CE065AF2086AF42004C643A /* Ejercicio3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Ejercicio3.c; sourceTree = "<group>"; };
 		2CE065B12086AF54004C643A /* Ejercicio4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Ejercicio4.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -123,10 +119,6 @@
 			isa = PBXGroup;
 			children = (
 				2CE065742086AC63004C643A /* Recursividad */,
-				2CE065842086AE2D004C643A /* Ejercicio1 */,
-				2CE065922086AE96004C643A /* Ejercicio2 */,
-				2CE0659E2086AEFD004C643A /* Ejercicio3 */,
-				2CE065A92086AF1E004C643A /* Ejercicio4 */,
 				2CE065732086AC63004C643A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -153,38 +145,6 @@
 				2CE065B12086AF54004C643A /* Ejercicio4.c */,
 			);
 			path = Recursividad;
-			sourceTree = "<group>";
-		};
-		2CE065842086AE2D004C643A /* Ejercicio1 */ = {
-			isa = PBXGroup;
-			children = (
-				2CE065852086AE2D004C643A /* main.c */,
-			);
-			path = Ejercicio1;
-			sourceTree = "<group>";
-		};
-		2CE065922086AE96004C643A /* Ejercicio2 */ = {
-			isa = PBXGroup;
-			children = (
-				2CE065932086AE96004C643A /* main.c */,
-			);
-			path = Ejercicio2;
-			sourceTree = "<group>";
-		};
-		2CE0659E2086AEFD004C643A /* Ejercicio3 */ = {
-			isa = PBXGroup;
-			children = (
-				2CE0659F2086AEFD004C643A /* main.c */,
-			);
-			path = Ejercicio3;
-			sourceTree = "<group>";
-		};
-		2CE065A92086AF1E004C643A /* Ejercicio4 */ = {
-			isa = PBXGroup;
-			children = (
-				2CE065AA2086AF1E004C643A /* main.c */,
-			);
-			path = Ejercicio4;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
