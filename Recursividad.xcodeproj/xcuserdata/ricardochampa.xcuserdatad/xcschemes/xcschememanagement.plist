@@ -9,10 +9,25 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Ejercicio1_4.xcscheme</key>
+		<key>Ejercicio1_1.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>4</integer>
+		</dict>
+		<key>Ejercicio1_2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Ejercicio1_3.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Ejercicio1_4.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
 		</dict>
 		<key>Ejercicio2.xcscheme</key>
 		<dict>
@@ -38,6 +53,16 @@
 			<true/>
 		</dict>
 		<key>2CE065D82087B401004C643A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2CE065ED2087B53E004C643A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2CE065F52087B541004C643A</key>
 		<dict>
 			<key>primary</key>
 			<true/>

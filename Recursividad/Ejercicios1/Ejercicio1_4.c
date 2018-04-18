@@ -24,7 +24,7 @@ int main(int argc, const char * argv[]) {
     int s1 = sumaNegativos(4);
     int s2 = sumaNegativos(5);
     
-    printf("Suma de los primeros cuatro números naturales %d\n",s1);
-    printf("Suma de los primeros cinco números naturales %d\n",s2);
+    printf("Suma de los primeros cuatro números negativos %d\n",s1);
+    printf("Suma de los primeros cinco números negativos %d\n",s2);
     return 0;
 }
