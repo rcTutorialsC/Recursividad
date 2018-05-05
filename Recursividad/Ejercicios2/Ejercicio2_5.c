@@ -52,11 +52,7 @@ void lat(int fila, int col, int cont, int max,int max_len, int mat[TAM][TAM]){
 
 int main(int argc, const char * argv[]) {
     int mat[TAM][TAM];
-    for(int f=0; f<TAM; f++){
-        for(int c=0; c<TAM; c++){
-            mat[f][c] = 0;
-        }
-    }
+
     
     lat(TAM, TAM, TAM, TAM,TAM, mat);
     
